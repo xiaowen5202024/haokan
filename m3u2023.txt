@@ -82,7 +82,6 @@ CGTN英语,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001058/inde
 内蒙古卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001068/index.m3u8
 延边卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001470/index.m3u8
 🇭🇰香港,#genre#
-凤凰中文http://198.16.100.90:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068
 凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv?$官源 576P
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
