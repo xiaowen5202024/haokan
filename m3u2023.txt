@@ -956,18 +956,6 @@ QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
 黑龙江农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
 黑龙江影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
-测试,#genre#
-鳳凰衛視中文台,http://sc2022.stream-link.org/tv2306.php?id=h16
-鳳凰衛視香港台,http://sc2022.stream-link.org/tv2306.php?id=h17
+🇭🇰香港,#genre#
 凤凰中文台,http://php.17186.eu.org/phtv/fhzw.m3u8
-凤凰资讯台,http://php.17186.eu.org/phtv/fhzx.m3u8
-凤凰香港台,http://php.17186.eu.org/phtv/fhxg.m3u8
-凤凰资讯,http://113.117.74.28:8081/hls/36/index.m3u8
-凤凰中文,http://113.117.74.28:8081/hls/37/index.m3u8
-凤凰香港,http://113.117.74.28:8081/hls/38/index.m3u8
-凤凰中文,https://i.125011.xyz/fhx.php?id=fhzw
-凤凰中文,http://38.207.160.104:11012/live.php?date=231119&id=phtv-cn
-凤凰资讯,https://i.125011.xyz/fhx.php?id=fhzx
-凤凰资讯,http://38.207.160.104:11012/live.php?date=231119&id=phtv-info
-凤凰香港,https://i.125011.xyz/fhx.php?id=fhhk
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv?$官源 576P
