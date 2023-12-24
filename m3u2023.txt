@@ -82,8 +82,20 @@ CGTN英语,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001058/inde
 内蒙古卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001068/index.m3u8
 延边卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001470/index.m3u8
 🇭🇰香港,#genre#
-凤凰中文台,http://php.17186.eu.org/phtv/fhzw.m3u8
+凤凰中文http://198.16.100.90:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068
+凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv?$官源 576P
+翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&
+无线新闻,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
+娱乐新闻,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+TVB星河,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/playlist.m3u8
+天映经典,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683110
+天映频道,http://210.210.155.35:80/dr9445/h/h14/02.m3u8
+
+NOW新闻,https://hls.ulivetv.net/v/live/d24fsmrtvmf4.m3u8?stream_id=d24fsmrtvmf4&timestamp=1703069410&rand=FAmY1lOOPj&uuid=iCWNWmEM46k6Zwk9nPy1Bb&from=web&sign=8286a8ac2efb2edc999d69a58de8633a&stream_id=d24fsmrtvmf4&dispatch=SktMQUZJSkFLTERGSjEyMzQxMkpLTEFKRksxMjM
+
+
 🇼🇸台湾,#genre#
 中天新闻台,https://yt-stream.livednow.com/stream/oIgbl7t0S_w&pp/master.m3u8
 东森新闻台,https://yt-stream.livednow.com/stream/S5WOGu2HSes/master.m3u8
