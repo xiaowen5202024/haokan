@@ -173,26 +173,7 @@ CGTN,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
-
-陕西,#genre#
-陕西一套,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8
-陕西四套,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226360/1.m3u8
-陕西五套,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226361/1.m3u8
-陕西六套,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226362/1.m3u8
-陕西七套,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226363/1.m3u8
-农林卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
-西安丝路,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226370/1.m3u8
-安康综合,http://mmitv.top/test/tianma.php?id=akzh
-安康公共,http://mmitv.top/test/tianma.php?id=akgg
-安康教育,http://mmitv.top/test/tianma.php?id=akjy
-保山一套,http://liveynbsdst.chinamcache.com/live/zb01.m3u8?auth_key=1645240615-0-0-65e16b6e5bf26ac5538ac471eff58b55
-保山二套,http://liveynbsdst.chinamcache.com/live/zb02.m3u8?auth_key=1645240679-0-0-d67bc97395c69c4381264c996315a24b
-咸阳-1,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226372/index.m3u8
-铜川-1,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226379/1.m3u8
-汉中-1,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8
-略阳-1,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226322/1.m3u8
-
-广东,#genre#
+🇨🇳广东,#genre#
 广东体育,http://player.200877926.top/169l/_17186/itouchgdm3u8.php?id=gdty
 广东珠江,http://player.200877926.top/169l/_17186/itouchgdm3u8.php?id=gdzj
 广东民生,http://player.200877926.top/169l/_17186/itouchgdm3u8.php?id=gdms
@@ -211,16 +192,6 @@ CGTN,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
 广州体育,http://player.200877926.top/169l/gd/gztvm3u8.php?id=gzzh
 南国都市4k,http://player.200877926.top/169l/gd/gztvm3u8.php?id=gzngds
 GRTN文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
-深圳公共,http://gmxw.7766.org:808/hls/156/index.m3u8
-深圳都市,http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
-深圳卫视,http://222.240.82.92:9901/tsfile/live/0126_1.m3u8
-大湾区卫视,http://angtv.cc/jd/gdjx.php?id=dwqws
-深圳都市,http://angtv.cc/jd/gdjx.php?id=szds
-深圳电视剧,http://angtv.cc/jd/gdjx.php?id=szdsj
-深圳体育健康,http://angtv.cc/jd/gdjx.php?id=szty
-深圳体育健康,http://angtv.cc/jd/gdjx.php?id=szty2
-深圳卫视,http://115.149.139.141:10001/tsfile/live/1032_1.m3u8
-深圳卫视,http://222.240.82.92:9901/tsfile/live/0126_1.m3u8
 广东体育,http://218.17.196.234:9901/tsfile/live/1001_1.m3u8
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
@@ -243,8 +214,6 @@ GRTN文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0
 清新综合,http://hls.wiseqx.com/live/qxzh.m3u8
 清新公共,http://hls.wiseqx.com/live/qxgg.m3u8
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
-生活HD,http://hls-ott-zhibo.wasu.tv/live/452/index.m3u8
-惠州综合,http://ye23.vip/z7z8/2021/0752.php?id=1
 河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 揭阳综合,rtmp://rtmp-stjy.sobeylive.com/stjy2020/zhpd?sign=bf98b2873ad5403290a37d16569d7a06&t=639de420
@@ -259,15 +228,9 @@ GRTN文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0
 广州新闻,https://justsometime.gztv.com/sec/jingsai.m3u8
 广州新闻,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzxw
 广东影视,http://lu1.cc/c/tv/sjtv/p/migu.php?id=gdys
-广州南国都市,http://9.zhxinda.xyz/gz.php?id=shenghuo
-广州南国都市,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
 广州法治,http://9.zhxinda.xyz/gz.php?id=fazhi
 广州法治,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzfz
 广州影视,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzys
-深圳电视剧,http://218.17.216.102:9901/tsfile/live/1057_1.m3u8
-深圳东部,https://lglivepull.sznews.com/live/2646.m3u8
-深圳龙岗,https://lglivepull.sznews.com/live/2647.m3u8
-深圳众创,https://lglivepull.sznews.com/live/2645.m3u8
 梅州综合,http://p2.vzan.com/slowlive/403126774572750089/live.m3u8
 梅州二套,http://p2.vzan.com/slowlive/645350022315428297/live.m3u8
 广东经济科教,http://9.zhxinda.xyz/gdtv.php?pk=1196
@@ -276,8 +239,6 @@ GRTN文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0
 广东新闻,http://9.zhxinda.xyz/gdtv.php?pk=1186
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935?zguangd
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721?zguangd
-广东生活HD,http://hls-ott-zhibo.wasu.tv/live/452/index.m3u8?zguangd
-深圳东部,https://lglivepull.sznews.com/live/2646.m3u8?zguangd
 韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8?zguangd
 韶关公共,https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8?zguangd
 清新综合,http://hls.wiseqx.com/live/qxzh.m3u8?zguangd
@@ -313,33 +274,15 @@ GRTN文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0
 鄱阳综合,http://pili-live-hls.poyang.jxxw.com.cn/pyxrmtzx/poyang.m3u8
 万载综合频道,http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 湖南,#genre#
-湖南卫视,http://120.132.122.244:10413/hls/1/index.m3u8
-湖南都市,http://120.132.122.244:10413/hls/3/index.m3u8
-湖南经视,http://120.132.122.244:10413/hls/2/index.m3u8
-湖南电影,http://120.132.122.244:10413/hls/7/index.m3u8
-湖南电视剧,http://120.132.122.244:10413/hls/4/index.m3u8
-潇湘电影,http://120.132.122.244:10413/hls/5/index.m3u8
-宜章综合,http://hnyz.chinashadt.com:2036/live/tv1.stream/playlist.m3u8
-宜章综合,http://hnyz.chinashadt.com:2036/live/tv1.stream/chunklist_w2084740082.m3u8
-张家界1台,http://stream.zjjrtv.com/zjjtv1/playlist.m3u8?_upt=58d7e8211638940948
-张家界2台,http://stream.zjjrtv.com/zjjtv2/playlist.m3u8?_upt=83ed3eb91638941175
 湘潭综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
 湘潭公共,http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
 新田电视台,https://hlsv2.quklive.com/live/1625110020460086/index.m3u8
 宜章综合,http://hnyz.chinashadt.com:2036/live/stream:tv1.stream_360p/playlist.m3u8
 张家界公共,http://stream.zjjrtv.com/zjjtv2/hd/live.m3u8
 张家界新闻,http://stream.zjjrtv.com/zjjtv1/hd/live.m3u8
-长沙影视,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.flv?auth_key=1936694127-0-0-f081dadf4de8780d84d51755eb65e516
-长沙政法,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.flv?auth_key=1936693647-0-0-09a2ab1e7112296d76b1c37999a5cf32
 湘潭新闻综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
 湘潭公共频道,http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
 岳阳公共,http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
-平乡电视台,http://hbpx.chinashadt.com:2036/live/px1.stream/playlist.m3u8
-长沙政法频道,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.flv?auth_key=1936693647-0-0-09a2ab1e7112296d76b1c37999a5cf32
-长沙影视频道,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.flv?auth_key=1936694127-0-0-f081dadf4de8780d84d51755eb65e516
-长沙磁浮电视,https://hls.quklive.com/live/1551751256158751/index.m3u8
-长沙地铁电视,https://hls.quklive.com/live/1551751084371710/index.m3u8
-长沙移动电视,https://hls.quklive.com/live/1551750947083772/index.m3u8
 宜章新闻综合,http://hnyz.chinashadt.com:2036/live/stream:tv1.stream/playlist.m3u8
 通道时政,http://live.tongdaotv.com:8087/live/tdtv.m3u8
 湖北,#genre#
@@ -470,33 +413,6 @@ GRTN文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0
 泗阳综合频道,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8?zjiangsd
 泗阳资讯频道,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8?zjiangsd
 赣榆新闻综合,http://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv.m3u8?zjiangsd
-
-北京,#genre#
-北京卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226222/1.m3u8
-北京体育休闲,http://ainm.cc/a/play/php/gehua.php?id=bjtyxx
-BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
-北京通州,http://pull.dayuntongzhou.com/live/tztv.m3u8
-房山无线频道,http://live.funhillrm.com/2/sd/live.m3u8
-通州电视台,http://pull.dayuntongzhou.com/live/tztv.m3u8
-房山有线频道,http://live.funhillrm.com/5/sd/live.m3u8
-
-上海,#genre#
-新闻综合,http://58.32.40.25:8000/udp/239.45.3.209:5140
-都市频道,http://58.32.40.25:8000/udp/239.45.3.236:5140
-纪实人文,http://58.32.40.25:8000/udp/239.45.3.212:5140
-东方影视,http://58.32.40.25:8000/udp/239.45.3.237:5140
-上海教育,http://58.32.40.25:8000/udp/239.45.0.13:5140
-第一财经,http://58.32.40.25:8000/udp/239.45.3.211:5140
-金色学堂,http://58.32.40.25:8000/udp/239.45.0.9:5140
-五星体育,http://58.32.40.25:8000/udp/239.45.3.210:5140
-东方财经,http://58.32.40.25:8000/udp/239.45.0.17:5140
-七彩戏剧,http://58.32.40.25:8000/udp/239.45.0.16:5140
-法治天地,http://58.32.40.25:8000/udp/239.45.1.46:5140
-游戏风云,http://58.32.40.25:8000/udp/239.45.3.131:5140
-乐游频道,http://58.32.40.25:8000/udp/239.45.3.135:5140
-嘉定电视台,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
-崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
-点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
 
 浙江,#genre#
 钱江频道,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
