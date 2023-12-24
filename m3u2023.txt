@@ -85,40 +85,25 @@ CGTN英语,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001058/inde
 凤凰中文台,http://php.17186.eu.org/phtv/fhzw.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv?$官源 576P
 🇼🇸台湾,#genre#
-东森新闻台,https://sc2022.stream-link.org/tv2306.php?id=t01
-东森财经新闻,https://sc2022.stream-link.org/tv2306.php?id=t02
-中天新闻,https://sc2022.stream-link.org/tv2306.php?id=t03
-华视,https://sc2022.stream-link.org/tv2306.php?id=t04
-华视新闻,https://sc2022.stream-link.org/tv2306.php?id=t05
-中视新闻,https://sc2022.stream-link.org/tv2306.php?id=t06
-民视新闻,https://sc2022.stream-link.org/tv2306.php?id=t07
-环宇国际新闻,https://sc2022.stream-link.org/tv2306.php?id=t08
-环宇台湾新聞,https://sc2022.stream-link.org/tv2306.php?id=t09
-三立财经新闻,https://sc2022.stream-link.org/tv2306.php?id=t10
-三立新闻,https://sc2022.stream-link.org/tv2306.php?id=t11
-三立新闻+,https://sc2022.stream-link.org/tv2306.php?id=t12
-台视新闻,https://sc2022.stream-link.org/tv2306.php?id=t13
-公视新闻,https://sc2022.stream-link.org/tv2306.php?id=t29
-TVBS新闻,https://sc2022.stream-link.org/tv2306.php?id=t14
-TVBS财经,https://sc2022.stream-link.org/tv2306.php?id=t15
-TVBS娱乐台,https://sc2022.stream-link.org/tv2306.php?id=t16
-中天亚洲台,https://sc2022.stream-link.org/tv2306.php?id=t17
-TVBS亚洲台,https://sc2022.stream-link.org/tv2306.php?id=t18
-民视HD,https://sc2022.stream-link.org/tv2306.php?id=t19
-民视第一台,https://sc2022.stream-link.org/tv2306.php?id=t20
-民视台湾台,https://sc2022.stream-link.org/tv2306.php?id=t21
-民视综合台,https://sc2022.stream-link.org/tv2306.php?id=t22
-民视影剧台,https://sc2022.stream-link.org/tv2306.php?id=t23
-民视旅游台,https://sc2022.stream-link.org/tv2306.php?id=t24
-三立台湾,https://sc2022.stream-link.org/tv2306.php?id=t25
-三立都会,https://sc2022.stream-link.org/tv2306.php?id=t26
-天才衝衝衝,https://sc2022.stream-link.org/tv2306.php?id=t27
-i-Fun动漫台,https://sc2022.stream-link.org/tv2306.php?id=t33
-MTV,https://sc2022.stream-link.org/tv2306.php?id=t34
-History历史頻道,https://sc2022.stream-link.org/tv2306.php?id=t35
-靖天日本台,https://sc2022.stream-link.org/tv2306.php?id=t36
-ELT娱乐台,https://sc2022.stream-link.org/tv2306.php?id=t38
-Love Nature,https://sc2022.stream-link.org/tv2306.php?id=t39
+中天新闻台,https://yt-stream.livednow.com/stream/oIgbl7t0S_w&pp/master.m3u8
+东森新闻台,https://yt-stream.livednow.com/stream/S5WOGu2HSes/master.m3u8
+TVBS新闻台,https://yt-stream.livednow.com/stream/2mCSYvcfhtc/master.m3u8
+TVBS MEWS,https://yt-stream.livednow.com/stream/m_dhMSvUCIc/master.m3u8
+东森财经新闻台,https://yt-stream.livednow.com/stream/WHEPzbFA3hw&pp/master.m3u8
+公视新闻台,https://yt-stream.livednow.com/stream/quwqlazU-c8&pp/master.m3u8
+环宇新闻台,https://yt-stream.livednow.com/stream/6IquAgfvYmc&pp/master.m3u8
+环宇新闻台湾台,https://yt-stream.livednow.com/stream/w87VGpgd90U&pp/master.m3u8
+华视新闻台,https://yt-stream.livednow.com/stream/wM0g8EoUZ_E&pp/master.m3u8
+镜新闻台,https://yt-stream.livednow.com/stream/5n0y6b0Q25o&pp/master.m3u8
+民视新闻台,https://yt-stream.livednow.com/stream/ylYJSBUgaMA&pp/master.m3u8
+三大一台,https://yt-stream.livednow.com/stream/Np_xgOxVbzI&pp/master.m3u8
+三立财经新闻台,https://yt-stream.livednow.com/stream/CKjSm5ZeehE&pp/master.m3u8
+三立新闻+,https://yt-stream.livednow.com/stream/oZdzzvxTfUY/master.m3u8
+台视新闻台,https://yt-stream.livednow.com/stream/xL0ch83RAK8&pp/master.m3u8
+中视新闻台,https://yt-stream.livednow.com/stream/TCnaIE_SAtM&pp/master.m3u8
+中天新闻台,https://yt-stream.livednow.com/stream/oIgbl7t0S_w&pp/master.m3u8
+ANN 日本,https://yt-stream.livednow.com/stream/coYw-eVU0Ks&pp/master.m3u8
+
 🇨🇳广东,#genre#
 广东体育,http://player.200877926.top/169l/_17186/itouchgdm3u8.php?id=gdty
 广东珠江,http://player.200877926.top/169l/_17186/itouchgdm3u8.php?id=gdzj
