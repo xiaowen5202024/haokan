@@ -102,33 +102,31 @@ CGTN英语,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001058/inde
 内蒙古卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001068/index.m3u8
 延边卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001470/index.m3u8
 🇭🇰香港,#genre#
-
+凤凰资讯,https://sc2024.stream-link.org/tv2401.php?id=h44dz
+凤凰中文,https://sc2024.stream-link.org/tv2401.php?id=h19tk
 華麗(翡翠台),https://sc2024.stream-link.org/tv2401.php?id=h31gc
 翡翠台,https://sc2024.stream-link.org/tv2401.php?id=h22kr
 翡翠台,https://sc2024.stream-link.org/tv2401.php?id=h53wb
 J2台,https://sc2024.stream-link.org/tv2401.php?id=h18wf
+TVB娱乐新闻,https://sc2024.stream-link.org/tv2401.php?id=h84wh
+TVB星河台,https://sc2024.stream-link.org/tv2401.php?id=h81kt
+TVB千禧经典,https://sc2024.stream-link.org/tv2401.php?id=h07ck
+天映频道,https://sc2024.stream-link.org/tv2401.php?id=h30cm
 无线新闻台,https://sc2024.stream-link.org/tv2401.php?id=h94bm
-无线财经·体育·资讯,https://sc2024.stream-link.org/tv2401.php?id=h27cc
 无线新闻,https://sc2024.stream-link.org/tv2401.php?id=h24br
+无线财经·体育·资讯,https://sc2024.stream-link.org/tv2401.php?id=h27cc
 无线财经·体育·资讯,https://sc2024.stream-link.org/tv2401.php?id=h11ct
 Now新闻台,https://sc2024.stream-link.org/tv2401.php?id=h34ec
 Now财经台,https://sc2024.stream-link.org/tv2401.php?id=h23th
 ViuTV99,https://sc2024.stream-link.org/tv2401.php?id=h31nv
-TVB娱乐新闻,https://sc2024.stream-link.org/tv2401.php?id=h84wh
 港台电视31,https://sc2024.stream-link.org/tv2401.php?id=h78tz
 港台电视32,https://sc2024.stream-link.org/tv2401.php?id=h81pt
 港台电视33,https://sc2024.stream-link.org/tv2401.php?id=h04tb
 香港国际财经,https://sc2024.stream-link.org/tv2401.php?id=h84uj
 香港开电视,https://sc2024.stream-link.org/tv2401.php?id=h59hn
 香港开资讯,https://sc2024.stream-link.org/tv2401.php?id=h04tf
-凤凰资讯,https://sc2024.stream-link.org/tv2401.php?id=h44dz
-凤凰中文,https://sc2024.stream-link.org/tv2401.php?id=h19tk
 澳门莲花,https://sc2024.stream-link.org/tv2401.php?id=h99pk
 MytvSuper Free,https://sc2024.stream-link.org/tv2401.php?id=h60ps
-TVB星河台,https://sc2024.stream-link.org/tv2401.php?id=h81kt
-TVB千禧经典,https://sc2024.stream-link.org/tv2401.php?id=h07ck
-天映频道,https://sc2024.stream-link.org/tv2401.php?id=h30cm
-now新闻,https://hls.ulivetv.net/v/live/d24fsmrtvmf4.m3u8?stream_id=d24fsmrtvmf4&timestamp=1703069410&rand=FAmY1lOOPj&uuid=iCWNWmEM46k6Zwk9nPy1Bb&from=web&sign=8286a8ac2efb2edc999d69a58de8633a&stream_id=d24fsmrtvmf4&dispatch=SktMQUZJSkFLTERGSjEyMzQxMkpLTEFKRksxMjM
 🇼🇸台湾,#genre#
 中天新闻台,https://yt-stream.livednow.com/stream/oIgbl7t0S_w&pp/master.m3u8
 东森新闻台,https://yt-stream.livednow.com/stream/S5WOGu2HSes/master.m3u8
