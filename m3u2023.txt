@@ -128,6 +128,22 @@ ViuTV99,https://sc2024.stream-link.org/tv2401.php?id=h31nv
 澳门莲花,https://sc2024.stream-link.org/tv2401.php?id=h99pk
 MytvSuper Free,https://sc2024.stream-link.org/tv2401.php?id=h60ps
 🇼🇸台湾,#genre#
+民视,rtmp://9sv2.mine.nu/sat/tv051
+台视,rtmp://9sv2.mine.nu/sat/tv071
+中视,rtmp://9sv2.mine.nu/sat/tv091
+华视,rtmp://9sv2.mine.nu/sat/tv111
+东森超视,rtmp://9sv2.mine.nu/sat/tv331
+东森财经,rtmp://9sv2.mine.nu/sat/tv571
+纬来育乐,rtmp://9sv2.mine.nu/sat/tv701
+纬来体育,rtmp://9sv2.mine.nu/sat/tv721
+纬来日本,rtmp://9sv2.mine.nu/sat/tv771
+TVBS欢乐台,rtmp://9sv2.mine.nu/sat/tv421
+TVBS新闻台,rtmp://9sv2.mine.nu/sat/tv551
+MoMo综合,rtmp://9sv2.mine.nu/sat/tv761
+ELEVEN体育1,rtmp://9sv2.mine.nu/sat/tv731
+ELEVEN体育2,rtmp://9sv2.mine.nu/sat/tv741
+ELTA体育1,rtmp://9sv2.mine.nu/sat/md051
+ELTA体育3,rtmp://9sv2.mine.nu/sat/md041
 中天新闻台,https://yt-stream.livednow.com/stream/oIgbl7t0S_w&pp/master.m3u8
 东森新闻台,https://yt-stream.livednow.com/stream/S5WOGu2HSes/master.m3u8
 TVBS新闻台,https://yt-stream.livednow.com/stream/2mCSYvcfhtc/master.m3u8
