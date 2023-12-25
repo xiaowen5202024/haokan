@@ -102,17 +102,33 @@ CGTN英语,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001058/inde
 内蒙古卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001068/index.m3u8
 延边卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001470/index.m3u8
 🇭🇰香港,#genre#
-凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv?$官源 576P
-翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
-无线新闻,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
-娱乐新闻,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
-TVB星河,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/playlist.m3u8
-天映经典,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683110
-天映频道,http://210.210.155.35:80/dr9445/h/h14/02.m3u8
 
-NOW新闻,https://hls.ulivetv.net/v/live/d24fsmrtvmf4.m3u8?stream_id=d24fsmrtvmf4&timestamp=1703069410&rand=FAmY1lOOPj&uuid=iCWNWmEM46k6Zwk9nPy1Bb&from=web&sign=8286a8ac2efb2edc999d69a58de8633a&stream_id=d24fsmrtvmf4&dispatch=SktMQUZJSkFLTERGSjEyMzQxMkpLTEFKRksxMjM
+華麗(翡翠台),https://sc2024.stream-link.org/tv2401.php?id=h31gc
+翡翠台,https://sc2024.stream-link.org/tv2401.php?id=h22kr
+翡翠台,https://sc2024.stream-link.org/tv2401.php?id=h53wb
+J2台,https://sc2024.stream-link.org/tv2401.php?id=h18wf
+无线新闻台,https://sc2024.stream-link.org/tv2401.php?id=h94bm
+无线财经·体育·资讯,https://sc2024.stream-link.org/tv2401.php?id=h27cc
+无线新闻,https://sc2024.stream-link.org/tv2401.php?id=h24br
+无线财经·体育·资讯,https://sc2024.stream-link.org/tv2401.php?id=h11ct
+Now新闻台,https://sc2024.stream-link.org/tv2401.php?id=h34ec
+Now财经台,https://sc2024.stream-link.org/tv2401.php?id=h23th
+ViuTV99,https://sc2024.stream-link.org/tv2401.php?id=h31nv
+TVB娱乐新闻,https://sc2024.stream-link.org/tv2401.php?id=h84wh
+港台电视31,https://sc2024.stream-link.org/tv2401.php?id=h78tz
+港台电视32,https://sc2024.stream-link.org/tv2401.php?id=h81pt
+港台电视33,https://sc2024.stream-link.org/tv2401.php?id=h04tb
+香港国际财经,https://sc2024.stream-link.org/tv2401.php?id=h84uj
+香港开电视,https://sc2024.stream-link.org/tv2401.php?id=h59hn
+香港开资讯,https://sc2024.stream-link.org/tv2401.php?id=h04tf
+凤凰资讯,https://sc2024.stream-link.org/tv2401.php?id=h44dz
+凤凰中文,https://sc2024.stream-link.org/tv2401.php?id=h19tk
+澳门莲花,https://sc2024.stream-link.org/tv2401.php?id=h99pk
+MytvSuper Free,https://sc2024.stream-link.org/tv2401.php?id=h60ps
+TVB星河台,https://sc2024.stream-link.org/tv2401.php?id=h81kt
+TVB千禧经典,https://sc2024.stream-link.org/tv2401.php?id=h07ck
+天映频道,https://sc2024.stream-link.org/tv2401.php?id=h30cm
+now新闻,https://hls.ulivetv.net/v/live/d24fsmrtvmf4.m3u8?stream_id=d24fsmrtvmf4&timestamp=1703069410&rand=FAmY1lOOPj&uuid=iCWNWmEM46k6Zwk9nPy1Bb&from=web&sign=8286a8ac2efb2edc999d69a58de8633a&stream_id=d24fsmrtvmf4&dispatch=SktMQUZJSkFLTERGSjEyMzQxMkpLTEFKRksxMjM
 🇼🇸台湾,#genre#
 中天新闻台,https://yt-stream.livednow.com/stream/oIgbl7t0S_w&pp/master.m3u8
 东森新闻台,https://yt-stream.livednow.com/stream/S5WOGu2HSes/master.m3u8
@@ -186,6 +202,32 @@ GRTN文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0
 河源公共,http://tmpstream.hyrtv.cn/hygg/playlist.m3u8?_upt=c9befc281606112199?zguangd
 河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8?zguangd
 🇬🇧体育,#genre#
+Now精选体育,https://sc2024.stream-link.org/tv2401.php?id=s41fu
+五星体育,https://sc2024.stream-link.org/tv2401.php?id=s58mc
+纬来体育,https://sc2024.stream-link.org/tv2401.php?id=s60us
+Abu Dhabi Sports 1,https://sc2024.stream-link.org/tv2401.php?id=s28hm
+Abu Dhabi Sports 2,https://sc2024.stream-link.org/tv2401.php?id=s14wz
+DAZN F1,https://sc2024.stream-link.org/tv2401.php?id=s51uw
+DAZN 西甲,https://sc2024.stream-link.org/tv2401.php?id=s98sb
+MLB(美式棒球联盟),https://sc2024.stream-link.org/tv2401.php?id=s68sa
+NBA TV(美式蓝球),https://sc2024.stream-link.org/tv2401.php?id=s29pa
+NFL Network(美式足球联盟),https://sc2024.stream-link.org/tv2401.php?id=s87vh
+Unbeaten,https://sc2024.stream-link.org/tv2401.php?id=s75km
+FIFA+,https://sc2024.stream-link.org/tv2401.php?id=s32sn
+Tennis Channel,https://sc2024.stream-link.org/tv2401.php?id=s19pd
+beIN SPORTS XTRA,https://sc2024.stream-link.org/tv2401.php?id=s41zs
+beIN SPORTS,https://sc2024.stream-link.org/tv2401.php?id=s14kn
+beIN SPORTS 2,https://sc2024.stream-link.org/tv2401.php?id=s38jp
+beIN SPORTS 3,https://sc2024.stream-link.org/tv2401.php?id=s19nb
+beIN SPORTS 4,https://sc2024.stream-link.org/tv2401.php?id=s71cu
+Astro SUPERSPORT,https://sc2024.stream-link.org/tv2401.php?id=s62dz
+Astro SUPERSPORT 2,https://sc2024.stream-link.org/tv2401.php?id=s13cb
+Astro SUPERSPORT 3,https://sc2024.stream-link.org/tv2401.php?id=s74nm
+Astro SUPERSPORT 4,https://sc2024.stream-link.org/tv2401.php?id=s45hu
+TNT Sports 1,https://sc2024.stream-link.org/tv2401.php?id=s87jf
+TNT Sports 2,https://sc2024.stream-link.org/tv2401.php?id=s15bh
+TNT Sports 3,https://sc2024.stream-link.org/tv2401.php?id=s97eu
+TNT Sports 4,https://sc2024.stream-link.org/tv2401.php?id=s24ch
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 天空英超,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7335/index.m3u8
 天空竞技,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7338/index.m3u8
