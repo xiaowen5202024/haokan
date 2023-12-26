@@ -205,10 +205,6 @@ RTHK(港台）32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/s
 TVB星河,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
 美亚电影,http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
-HOY资讯台,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-HOY国际财经,https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
-香港开电视,https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
-香港国际,https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 
 🇼🇸台湾,#genre#
 民视,rtmp://9sv2.mine.nu/sat/tv051
@@ -224,7 +220,6 @@ HOY国际财经,https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 TVBS欢乐台,rtmp://9sv2.mine.nu/sat/tv421
 TVBS新闻台,rtmp://9sv2.mine.nu/sat/tv551
 中天新闻台,http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
-东森新闻台,http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
 东森财经新闻台,http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=MB8B2069463920694639&ct=19249&tsum=05ff51a1b274ce7d31d05bbf11df18ad
 TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 环宇新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
@@ -248,21 +243,12 @@ ELTA体育3,rtmp://9sv2.mine.nu/sat/md041
 广东影视,http://ci.emdoor.tech:8080/touchtv.php?pk=1199
 广东少儿,http://ci.emdoor.tech:8080/touchtv.php?pk=1200
 经济科教,http://ci.emdoor.tech:8080/touchtv.php?pk=1196
-广东4k超高清,http://ci.emdoor.tech:8080/touchtv.php?pk=1198
 广东移动,http://ci.emdoor.tech:8080/touchtv.php?pk=2463
 GRTN文化,http://ci.emdoor.tech:8080/touchtv.php?pk=2511
-嘉佳卡通,http://ci.emdoor.tech:8080/touchtv.php?pk=1187
 GRTN教育,http://ci.emdoor.tech:8080/touchtv.php?pk=2512
-🇨🇳北京,#genre#
-北京新闻,http://qnap.yjnhome.com:4000/udp/239.3.1.159:8000
-北京财经,http://qnap.yjnhome.com:4000/udp/239.3.1.116:8000
-北京纪实,http://qnap.yjnhome.com:4000/udp/239.3.1.115:8000
-北京影视,http://qnap.yjnhome.com:4000/udp/239.3.1.158:8000
-北京生活,http://qnap.yjnhome.com:4000/udp/239.3.1.117:8000
-北京文艺,http://qnap.yjnhome.com:4000/udp/239.3.1.242:8000
-
-北京IPTV淘娱乐,http://qnap.yjnhome.com:4000/udp/239.3.1.100:8001
-
+嘉佳卡通,http://ci.emdoor.tech:8080/touchtv.php?pk=1187
+广东4k超高清,http://ci.emdoor.tech:8080/touchtv.php?pk=1198
+大湾区卫视,http://ci.emdoor.tech:8080/touchtv.php?pk=1197
 🇬🇧体育,#genre#
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 天空英超,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7335/index.m3u8
