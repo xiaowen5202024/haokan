@@ -1,12 +1,3 @@
-🇨🇳4K V6专区,#genre#
-CCTV-4 K中文国际,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
-CCTV-8 K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-CCTV-8 K电视剧,http://cfss.cc/api/ysp/cctv8k.m3u8
-CCTV16 4k,http://live.aishang.ctlcdn.com/00000110240389_1/playlist.m3u8?CONTENTID=00000110240389_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?zjiangsd
-广东综艺4k,http://player.200877926.top/169l/_17186/itouchgdm3u8.php?id=gd4k
-咪咕体育-4K-HLG源,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
-咪咕体育-4K源-2,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
 🇨🇳电信V4,#genre#
 CCTV1,http://live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV2,http://live.aishang.ctlcdn.com/00000110240244_1/playlist.m3u8?CONTENTID=00000110240244_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -98,10 +89,6 @@ CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
 高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
 央视文化精品,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
-CETV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
-CETV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
-CETV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
-CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
@@ -129,14 +116,10 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 广西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225770/index.m3u8
 江西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225764/index.m3u8
 江苏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
-优漫卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
 深圳卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
 广东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
 大湾区卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
 北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
-北京卡酷,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
-冬奥纪实,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
-嘉佳卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
 云南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225751/index.m3u8
 贵州卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225793/index.m3u8
 宁夏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225748/index.m3u8
@@ -209,14 +192,14 @@ CHC 高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900
 三沙卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001185/index.m3u8
 青海卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001082/index.m3u8
 🇭🇰香港,#genre#
-凤凰中文,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
-凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+凤凰中文,http://198.16.100.90:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068
+凤凰资讯,http://198.16.100.90:8278/phoenixinfo_hd/playlist.m3u8?tid=MC1C1591244615912446&ct=19225&tsum=a4fd6441d252c98ea603b13ef749a84e
 凤凰香港,http://198.16.100.90:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 RTHK(港台）31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
 RTHK(港台）32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
-黄金（翡翠台),https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-香港 (翡翠台),http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153401
+翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
+
 娱乐新闻,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 无线新闻,http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=482515
 TVB星河,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
@@ -270,46 +253,17 @@ ELTA体育3,rtmp://9sv2.mine.nu/sat/md041
 GRTN文化,http://ci.emdoor.tech:8080/touchtv.php?pk=2511
 嘉佳卡通,http://ci.emdoor.tech:8080/touchtv.php?pk=1187
 GRTN教育,http://ci.emdoor.tech:8080/touchtv.php?pk=2512
-河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-阳江综合,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b1152000.m3u8
-阳江公共,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b1152000.m3u8
-梅州综合,http://pili-live-rtmp.tvliving.gdmztv.com/meizhou-tvliving/mztv1.m3u8
-梅州公共,http://pili-live-rtmp.tvliving.gdmztv.com/meizhou-tvliving/mztv2.m3u8
-韶关公共,https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8
-阳江综合,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b3628000.m3u8
-阳江综合,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_w1166501356_b928000.m3u8
-韶关公共,https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8?zguangd
-阳江1,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_w1166501356_b928000.m3u8?zguangd
-河源综艺,http://tmpstream.hyrtv.cn/xwzh/playlist.m3u8?_upt=407e01941606112151?zguangd
-河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8?zguangd
+🇨🇳北京,#genre#
+北京新闻,http://qnap.yjnhome.com:4000/udp/239.3.1.159:8000
+北京财经,http://qnap.yjnhome.com:4000/udp/239.3.1.116:8000
+北京纪实,http://qnap.yjnhome.com:4000/udp/239.3.1.115:8000
+北京影视,http://qnap.yjnhome.com:4000/udp/239.3.1.158:8000
+北京生活,http://qnap.yjnhome.com:4000/udp/239.3.1.117:8000
+北京文艺,http://qnap.yjnhome.com:4000/udp/239.3.1.242:8000
+
+北京IPTV淘娱乐,http://qnap.yjnhome.com:4000/udp/239.3.1.100:8001
+
 🇬🇧体育,#genre#
-Now精选体育,https://sc2024.stream-link.org/tv2401.php?id=s41fu
-五星体育,https://sc2024.stream-link.org/tv2401.php?id=s58mc
-纬来体育,https://sc2024.stream-link.org/tv2401.php?id=s60us
-Abu Dhabi Sports 1,https://sc2024.stream-link.org/tv2401.php?id=s28hm
-Abu Dhabi Sports 2,https://sc2024.stream-link.org/tv2401.php?id=s14wz
-DAZN F1,https://sc2024.stream-link.org/tv2401.php?id=s51uw
-DAZN 西甲,https://sc2024.stream-link.org/tv2401.php?id=s98sb
-MLB(美式棒球联盟),https://sc2024.stream-link.org/tv2401.php?id=s68sa
-NBA TV(美式蓝球),https://sc2024.stream-link.org/tv2401.php?id=s29pa
-NFL Network(美式足球联盟),https://sc2024.stream-link.org/tv2401.php?id=s87vh
-Unbeaten,https://sc2024.stream-link.org/tv2401.php?id=s75km
-FIFA+,https://sc2024.stream-link.org/tv2401.php?id=s32sn
-Tennis Channel,https://sc2024.stream-link.org/tv2401.php?id=s19pd
-beIN SPORTS XTRA,https://sc2024.stream-link.org/tv2401.php?id=s41zs
-beIN SPORTS,https://sc2024.stream-link.org/tv2401.php?id=s14kn
-beIN SPORTS 2,https://sc2024.stream-link.org/tv2401.php?id=s38jp
-beIN SPORTS 3,https://sc2024.stream-link.org/tv2401.php?id=s19nb
-beIN SPORTS 4,https://sc2024.stream-link.org/tv2401.php?id=s71cu
-Astro SUPERSPORT,https://sc2024.stream-link.org/tv2401.php?id=s62dz
-Astro SUPERSPORT 2,https://sc2024.stream-link.org/tv2401.php?id=s13cb
-Astro SUPERSPORT 3,https://sc2024.stream-link.org/tv2401.php?id=s74nm
-Astro SUPERSPORT 4,https://sc2024.stream-link.org/tv2401.php?id=s45hu
-TNT Sports 1,https://sc2024.stream-link.org/tv2401.php?id=s87jf
-TNT Sports 2,https://sc2024.stream-link.org/tv2401.php?id=s15bh
-TNT Sports 3,https://sc2024.stream-link.org/tv2401.php?id=s97eu
-TNT Sports 4,https://sc2024.stream-link.org/tv2401.php?id=s24ch
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 天空英超,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7335/index.m3u8
 天空竞技,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7338/index.m3u8
