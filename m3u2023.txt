@@ -209,19 +209,20 @@ CHC 高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900
 三沙卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001185/index.m3u8
 青海卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001082/index.m3u8
 🇭🇰香港,#genre#
-凤凰中文,http://198.16.100.90:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068
-凤凰资讯,http://50.7.238.114:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
+凤凰中文,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 凤凰香港,http://198.16.100.90:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+华龍（翡翠台),https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+香港(翡翠台),http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
+娱乐新闻,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+无线新闻.http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
+TVB星河,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
+J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
+美亚电影,https://epg.pw/stream/f756fd481d421b861ac431717c303e200b697ff47eb789065645f8b61f67a264.m3u8
+HOY国际财经,https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 香港开电视,https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
 香港国际财经,https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
-翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
-TVB娱乐新闻,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
-TVB星河,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
-无线新闻.http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
-J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
-HOY国际财经,https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
-
 
 🇼🇸台湾,#genre#
 民视,rtmp://9sv2.mine.nu/sat/tv051
@@ -233,12 +234,13 @@ HOY国际财经,https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 纬来育乐,rtmp://9sv2.mine.nu/sat/tv701
 纬来体育,rtmp://9sv2.mine.nu/sat/tv721
 纬来日本,rtmp://9sv2.mine.nu/sat/tv771
+龙祥电影,http://50.7.238.114:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
 TVBS欢乐台,rtmp://9sv2.mine.nu/sat/tv421
 TVBS新闻台,rtmp://9sv2.mine.nu/sat/tv551
 中天新闻台,http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
 东森新闻台,http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
 东森财经新闻台,http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=MB8B2069463920694639&ct=19249&tsum=05ff51a1b274ce7d31d05bbf11df18ad
-TVBS,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
+TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 环宇新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 镜新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 台视新闻台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
