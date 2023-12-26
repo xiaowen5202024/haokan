@@ -256,23 +256,18 @@ ELTA体育1,rtmp://9sv2.mine.nu/sat/md051
 ELTA体育3,rtmp://9sv2.mine.nu/sat/md041
 
 🇨🇳广东,#genre#
-广东体育,http://player.200877926.top/169l/_17186/itouchgdm3u8.php?id=gdty
-广东珠江,http://player.200877926.top/169l/_17186/itouchgdm3u8.php?id=gdzj
-广东民生,http://player.200877926.top/169l/_17186/itouchgdm3u8.php?id=gdms
-广东新闻,http://player.200877926.top/169l/_17186/itouchgdm3u8.php?id=gdxw
-广东移动,http://player.200877926.top/169l/_17186/itouchgdm3u8.php?id=gdyd
-广东国际,http://player.200877926.top/169l/_17186/itouchgdm3u8.php?id=gdgj
-广东经济,http://player.200877926.top/169l/_17186/itouchgdm3u8.php?id=gdjj
-大湾区卫视,http://player.200877926.top/169l/_17186/itouchgdm3u8.php?id=dawanqu
-广东综艺4k,http://player.200877926.top/169l/_17186/itouchgdm3u8.php?id=gd4k
-广东影视,http://player.200877926.top/169l/_17186/itouchgdm3u8.php?id=gdys
-广东少儿,http://player.200877926.top/169l/_17186/itouchgdm3u8.php?id=gdse
-广州综合,http://player.200877926.top/169l/gd/gztvm3u8.php?id=gzys
-广州新闻,http://player.200877926.top/169l/gd/gztvm3u8.php?id=gzxw
-广州法治,http://player.200877926.top/169l/gd/gztvm3u8.php?id=gzfz
-广州体育,http://player.200877926.top/169l/gd/gztvm3u8.php?id=gzzh
-南国都市4k,http://player.200877926.top/169l/gd/gztvm3u8.php?id=gzngds
-广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
+广东体育,http://ci.emdoor.tech:8080/touchtv.php?pk=1184
+广东珠江,http://ci.emdoor.tech:8080/touchtv.php?pk=1183
+广东新闻,http://ci.emdoor.tech:8080/touchtv.php?pk=1186
+广东民生,http://ci.emdoor.tech:8080/touchtv.php?pk=1185
+广东影视,http://ci.emdoor.tech:8080/touchtv.php?pk=1199
+广东少儿,http://ci.emdoor.tech:8080/touchtv.php?pk=1200
+经济科教,http://ci.emdoor.tech:8080/touchtv.php?pk=1196
+广东4k超高清,http://ci.emdoor.tech:8080/touchtv.php?pk=1198
+广东移动,http://ci.emdoor.tech:8080/touchtv.php?pk=2463
+GRTN文化,http://ci.emdoor.tech:8080/touchtv.php?pk=2511
+嘉佳卡通,http://ci.emdoor.tech:8080/touchtv.php?pk=1187
+GRTN教育,http://ci.emdoor.tech:8080/touchtv.php?pk=2512
 河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 阳江综合,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b1152000.m3u8
