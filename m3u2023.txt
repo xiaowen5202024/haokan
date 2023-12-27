@@ -238,6 +238,7 @@ ELTA体育3,rtmp://9sv2.mine.nu/sat/md041
 🇨🇳广东,#genre#
 广东体育,http://120.236.57.77:9901/tsfile/live/1033_1.m3u8
 广东体育,http://ci.emdoor.tech:8080/touchtv.php?pk=1184
+广东卫视,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/gdwshd8m/8000000/mnf.m3u8
 广东珠江,http://ci.emdoor.tech:8080/touchtv.php?pk=1183
 广东新闻,http://ci.emdoor.tech:8080/touchtv.php?pk=1186
 广东民生,http://ci.emdoor.tech:8080/touchtv.php?pk=1185
