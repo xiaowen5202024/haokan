@@ -234,6 +234,26 @@ ELEVEN体育1,rtmp://9sv2.mine.nu/sat/tv731
 ELEVEN体育2,rtmp://9sv2.mine.nu/sat/tv741
 ELTA体育1,rtmp://9sv2.mine.nu/sat/md051
 ELTA体育3,rtmp://9sv2.mine.nu/sat/md041
+中天新闻台,https://yt-stream.livednow.com/stream/oIgbl7t0S_w&pp/master.m3u8
+东森新闻台,https://yt-stream.livednow.com/stream/S5WOGu2HSes/master.m3u8
+TVBS新闻台,https://yt-stream.livednow.com/stream/2mCSYvcfhtc/master.m3u8
+TVBS MEWS,https://yt-stream.livednow.com/stream/m_dhMSvUCIc/master.m3u8
+
+
+东森财经新闻台,https://yt-stream.livednow.com/stream/WHEPzbFA3hw&pp/master.m3u8
+公视新闻台,https://yt-stream.livednow.com/stream/quwqlazU-c8&pp/master.m3u8
+环宇新闻台,https://yt-stream.livednow.com/stream/6IquAgfvYmc&pp/master.m3u8
+环宇新闻台湾台,https://yt-stream.livednow.com/stream/w87VGpgd90U&pp/master.m3u8
+华视新闻台,https://yt-stream.livednow.com/stream/wM0g8EoUZ_E&pp/master.m3u8
+镜新闻台,https://yt-stream.livednow.com/stream/5n0y6b0Q25o&pp/master.m3u8
+民视新闻台,https://yt-stream.livednow.com/stream/ylYJSBUgaMA&pp/master.m3u8
+三大一台,https://yt-stream.livednow.com/stream/Np_xgOxVbzI&pp/master.m3u8
+三立财经新闻台,https://yt-stream.livednow.com/stream/CKjSm5ZeehE&pp/master.m3u8
+三立新闻+,https://yt-stream.livednow.com/stream/oZdzzvxTfUY/master.m3u8
+台视新闻台,https://yt-stream.livednow.com/stream/xL0ch83RAK8&pp/master.m3u8
+中视新闻台,https://yt-stream.livednow.com/stream/TCnaIE_SAtM&pp/master.m3u8
+中天新闻台,https://yt-stream.livednow.com/stream/oIgbl7t0S_w&pp/master.m3u8
+ANN 日本,https://yt-stream.livednow.com/stream/coYw-eVU0Ks&pp/master.m3u8
 
 🇨🇳广东,#genre#
 广东体育,http://120.236.57.77:9901/tsfile/live/1033_1.m3u8
