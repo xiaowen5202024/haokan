@@ -199,13 +199,14 @@ CHC 高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900
 RTHK(港台）31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
 RTHK(港台）32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
-
+J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
 娱乐新闻,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 无线新闻,http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=482515
+ViuTV,http://198.16.100.90:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&ct=19254&tsum=3cb061ac749a32280d3b88c022a1403f
 TVB星河,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
-J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
 美亚电影,http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
-
+澳门Macau,http://61.244.22.5/ch3/ch3.live/index.m3u8
+澳视澳门,http://61.244.22.5/ch1/ch1.live/index.m3u8
 🇼🇸台湾,#genre#
 民视,rtmp://9sv2.mine.nu/sat/tv051
 台视,rtmp://9sv2.mine.nu/sat/tv071
@@ -240,20 +241,6 @@ TVBS新闻台,https://yt-stream.livednow.com/stream/2mCSYvcfhtc/master.m3u8
 TVBS MEWS,https://yt-stream.livednow.com/stream/m_dhMSvUCIc/master.m3u8
 
 
-东森财经新闻台,https://yt-stream.livednow.com/stream/WHEPzbFA3hw&pp/master.m3u8
-公视新闻台,https://yt-stream.livednow.com/stream/quwqlazU-c8&pp/master.m3u8
-环宇新闻台,https://yt-stream.livednow.com/stream/6IquAgfvYmc&pp/master.m3u8
-环宇新闻台湾台,https://yt-stream.livednow.com/stream/w87VGpgd90U&pp/master.m3u8
-华视新闻台,https://yt-stream.livednow.com/stream/wM0g8EoUZ_E&pp/master.m3u8
-镜新闻台,https://yt-stream.livednow.com/stream/5n0y6b0Q25o&pp/master.m3u8
-民视新闻台,https://yt-stream.livednow.com/stream/ylYJSBUgaMA&pp/master.m3u8
-三大一台,https://yt-stream.livednow.com/stream/Np_xgOxVbzI&pp/master.m3u8
-三立财经新闻台,https://yt-stream.livednow.com/stream/CKjSm5ZeehE&pp/master.m3u8
-三立新闻+,https://yt-stream.livednow.com/stream/oZdzzvxTfUY/master.m3u8
-台视新闻台,https://yt-stream.livednow.com/stream/xL0ch83RAK8&pp/master.m3u8
-中视新闻台,https://yt-stream.livednow.com/stream/TCnaIE_SAtM&pp/master.m3u8
-中天新闻台,https://yt-stream.livednow.com/stream/oIgbl7t0S_w&pp/master.m3u8
-ANN 日本,https://yt-stream.livednow.com/stream/coYw-eVU0Ks&pp/master.m3u8
 
 🇨🇳广东,#genre#
 广东体育,http://120.236.57.77:9901/tsfile/live/1033_1.m3u8
