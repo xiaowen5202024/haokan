@@ -314,46 +314,19 @@ RTHK(港台）32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/s
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
 娱乐新闻,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
-无线新闻,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
+TVB無線新聞,http://live.cooltv.top/tv/tvb.php?id=0
+TVB無線財經,http://live.cooltv.top/tv/tvb.php?id=2
+
 ViuTV,http://198.16.100.90:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&ct=19254&tsum=3cb061ac749a32280d3b88c022a1403f
 TVB星河,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 美亚电影,http://50.7.238.114:8278/meiyamovie_twn/playlist.m3u8?tid=ME9E6301165163011651&ct=19249&tsum=c2c246af848b424b68e94e4b35cfa337
-星卫电影,http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
+
 澳门Macau,http://61.244.22.5/ch3/ch3.live/index.m3u8
 澳视澳门,http://61.244.22.5/ch1/ch1.live/index.m3u8
 🇼🇸台湾,#genre#
-民视,rtmp://9sv2.mine.nu/sat/tv051
-台视,rtmp://9sv2.mine.nu/sat/tv071
-中视,rtmp://9sv2.mine.nu/sat/tv091
-华视,rtmp://9sv2.mine.nu/sat/tv111
-东森超视,rtmp://9sv2.mine.nu/sat/tv331
-东森财经,rtmp://9sv2.mine.nu/sat/tv571
-纬来育乐,rtmp://9sv2.mine.nu/sat/tv701
-纬来体育,rtmp://9sv2.mine.nu/sat/tv721
-纬来日本,rtmp://9sv2.mine.nu/sat/tv771
-龙祥电影,http://50.7.238.114:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
-TVBS欢乐台,rtmp://9sv2.mine.nu/sat/tv421
-TVBS新闻台,rtmp://9sv2.mine.nu/sat/tv551
-中天新闻台,http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
-东森财经新闻台,http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=MB8B2069463920694639&ct=19249&tsum=05ff51a1b274ce7d31d05bbf11df18ad
+
 TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-环宇新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-镜新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-台视新闻台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-中视新闻台,http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8?tid=MD8D4836803548368035&ct=19226&tsum=a2f06c15a5e9c4dc67565c2b8598c8da
-中天亚洲台,http://198.16.100.90:8278/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&tsum=d074a602fcd98718afeb8fc9a18fa964
-靖天国际,http://198.16.100.90:8278/jingtianintl_twn/playlist.m3u8?tid=ME4E7632479576324795&ct=19226&tsum=9922eeed6392b21e1710ba791cc599d6
-八大综合台,http://198.16.100.90:8278/badazhonghe/playlist.m3u8?tid=MCFC9951205299512052&ct=19249&tsum=dc4ca0de5e57c9f4caee0bb4e80c098a
-MoMo综合,rtmp://9sv2.mine.nu/sat/tv761
-ELEVEN体育1,rtmp://9sv2.mine.nu/sat/tv731
-ELEVEN体育2,rtmp://9sv2.mine.nu/sat/tv741
-ELTA体育1,rtmp://9sv2.mine.nu/sat/md051
-ELTA体育3,rtmp://9sv2.mine.nu/sat/md041
-中天新闻台,https://yt-stream.livednow.com/stream/oIgbl7t0S_w&pp/master.m3u8
-东森新闻台,https://yt-stream.livednow.com/stream/S5WOGu2HSes/master.m3u8
-TVBS新闻台,https://yt-stream.livednow.com/stream/2mCSYvcfhtc/master.m3u8
-TVBS MEWS,https://yt-stream.livednow.com/stream/m_dhMSvUCIc/master.m3u8
-🇨🇳广东有线,#genre#
+
 广东体育高清,http://183.51.102.157:8001/rtp/239.77.0.112:5146
 广东珠江高清,http://183.51.102.157:8001/rtp/239.77.0.1:5146
 广东新闻高清,http://183.51.102.157:8001/rtp/239.77.0.173:5146
