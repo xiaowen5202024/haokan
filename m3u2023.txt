@@ -266,7 +266,7 @@ RTHK(港台）32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/s
 澳门Macau,http://61.244.22.5/ch3/ch3.live/index.m3u8
 澳视澳门,http://61.244.22.5/ch1/ch1.live/index.m3u8
 🇼🇸台湾,#genre#
-中天新闻,https://m.youtube.com/watch?v=oIgbl7t0S_w
+中天新闻,https://youtube.livednow.com/stream/oIgbl7t0S_w
 台视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 民视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
