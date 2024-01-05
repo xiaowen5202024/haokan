@@ -274,13 +274,13 @@ Aniyou:
 
 台视新闻台,https://youtube.livednow.com/stream/xL0ch83RAK8
 
-华视新闻台,https://youtube.livednow.com/stream/v6KeG5paw6Ze7
+华视新闻台,https://youtube.livednow.com/stream/wM0g8EoUZ_E
 
 中视综艺,https://youtube.livednow.com/stream/A98LJq71BZg
 
 华视综艺,https://youtube.livednow.com/stream/IsFtLpSuf_g
 
-镜新闻,https://youtube.livednow.com/stream/ygUJ6ZWc5paw6Ze7
+镜新闻,https://youtube.livednow.com/stream/5n0y6b0Q25o
 公视新闻台
 https://youtube.livednow.com/stream/quwqlazU-c8
 
@@ -292,11 +292,12 @@ TVBS HD,https://youtube.livednow.com/stream/YvdcZ_jpLXE
 
 三立INEWS,https://youtube.livednow.com/stream/CKjSm5ZeehE
 
-东森新闻台,https://youtube.livednow.com/stream/ygUM5Lic5qOu5paw6Ze7
+东森新闻台,https://youtube.livednow.com/stream/E0zhe2gkXBs
+东森财经台,https://youtube.livednow.com/stream/WHEPzbFA3hw
 
-东森财经台,https://youtube.livednow.com/stream/ygUM5Lic5qOu6LSi57uP
+TVBS NEWS, https://youtube.livednow.com/stream/m_dhMSvUCIc
 
-TVBS NEWS, https://youtube.livednow.com/stream/ygUHVFZCUyBtZQ%3D%3D
+三立華剧,https://youtube.livednow.com/stream/mE0Qsb6R0Kg
 
 KBS,https://youtube.livednow.com/stream/KFaTB3L5Alw
 
